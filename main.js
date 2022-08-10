@@ -49,25 +49,25 @@ const app = {
     {
       name: 'Anh Sai Rồi',
       singer: 'Sơn Tùng M-TP',
-      path: 'accsets/music/Anh-Sai-Roi-Son-Tung-M-TP.mp3',
+      path: './accsets/music/Anh-Sai-Roi-Son-Tung-M-TP.mp3',
       image: './accsets/image/anhsairoi.jpg'
     },
     {
       name: 'That Girl',
       singer: ' Olly Murs',
-      path: 'accsets/music/song4.mp3',
+      path: './accsets/music/song4.mp3',
       image: './accsets/image/thatgirl.jpg'
     },
     {
       name: 'Reality',
       singer: 'Lost Frequencies ft.Janieck Devy',
-      path: 'accsets/music/Reality-Lost-Frequencies-Janieck-Devy.mp3',
+      path: './accsets/music/Reality-Lost-Frequencies-Janieck-Devy.mp3',
       image: './accsets/image/reality.jpg'
     },
     {
       name: 'That Girl VN',
       singer: 'Cover Cao Tùng Anh',
-      path: 'accsets/music/That-Girl-Vietnamese-Version-Cover-Cao-Tung-Anh.mp3',
+      path: './accsets/music/That-Girl-Vietnamese-Version-Cover-Cao-Tung-Anh.mp3',
       image: './accsets/image/sondang.jpg'
     }
   ]
