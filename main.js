@@ -231,7 +231,7 @@ const app = {
   },
 
   start: function () {
-    //định nghĩa các thuộc tính
+    //định nghĩa các thuộc tính//
     this.defineProperties();
     //xử lý sự kiện
     this.handleEvent();
