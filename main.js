@@ -55,7 +55,7 @@ const app = {
     {
       name: 'That Girl',
       singer: ' Olly Murs',
-      path: 'song4.mp3',
+      path: 'accsets/music/song4.mp3',
       image: './accsets/image/thatgirl.jpg'
     },
     {
